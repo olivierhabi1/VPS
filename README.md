@@ -70,10 +70,10 @@ Secrets Name | Uses | Notes
 
 * First, start the actions of Linux System.     
 * Second, Copy the link from the console    
-<img src="pics/0F804C5F-FE8F-45FA-9720-F91F212597DF.png?raw=true" height="100' width="200" >         
+<img src="pics/0F804C5F-FE8F-45FA-9720-F91F212597DF.png?raw=true" "height="100' width="200" >         
 * Go to MacOS Terminal or Windows CMD Terminal or else ssh client and enter command provided       
 * Enter your ssh password then.     
-<img src="pics/78FE6C5A-7270-4986-AB8F-57EC4C9B4F44.png?raw=true" height="100' width="200" >       
+<img src="pics/78FE6C5A-7270-4986-AB8F-57EC4C9B4F44.png?raw=true" "height="100' width="200" >       
 * ENJOY!    
 
 </details>
@@ -86,16 +86,16 @@ Secrets Name | Uses | Notes
 <br>
     
 - Windows 10 Version
-<img src="pics/268600af-c8b9-47cf-b5dd-d1c1ed6d9ce9.png?raw=true" height="100' width="200">
+<img src="pics/268600af-c8b9-47cf-b5dd-d1c1ed6d9ce9.png?raw=true" "height="100' width="200">
 
 - Windows 10 Task Manager
-<img src="pics/0cf98258-a6fe-46bb-ac9a-ee4bb3037e3a.png?raw=true" height="100' width="200" >
+<img src="pics/0cf98258-a6fe-46bb-ac9a-ee4bb3037e3a.png?raw=true" "height="100' width="200" >
 
 - Windows 10 Device Manager
-<img src="pics/d32cf285-5ecf-4cce-a52a-5cb54fb130c7.png?raw=true" height="100' width="200">
+<img src="pics/d32cf285-5ecf-4cce-a52a-5cb54fb130c7.png?raw=true" "height="100' width="200">
 
 - Windows 10 Device Specification
-<img src="pics/e1852b80-d550-44f3-b619-86ea82902bb4.png?raw=true" height="100' width="200">
+<img src="pics/e1852b80-d550-44f3-b619-86ea82902bb4.png?raw=true" "height="100' width="200">
     
 </details>
 
@@ -104,21 +104,21 @@ Secrets Name | Uses | Notes
 <br>
 
 * Click **Run Workflow**
-<img src="pics/96644176-D760-47D4-BED2-C47E62A6763F.png?raw=true" height="100' width="200" >
+<img src="pics/96644176-D760-47D4-BED2-C47E62A6763F.png?raw=true" "height="100' width="200" >
 
 * Copy ssh with url
-<img src="pics/0F804C5F-FE8F-45FA-9720-F91F212597DF.png?raw=true" height="100' width="200" >
+<img src="pics/0F804C5F-FE8F-45FA-9720-F91F212597DF.png?raw=true" "height="100' width="200" >
 
 * Open cmd or Terminal from your windows/MacOS or Linux, and type command provided by github actions boxes.
-<img src="pics/78FE6C5A-7270-4986-AB8F-57EC4C9B4F44.png?raw=true" height="100' width="200" >
+<img src="pics/78FE6C5A-7270-4986-AB8F-57EC4C9B4F44.png?raw=true" "height="100' width="200" >
 
 type **yes** from the connect, and then type your ssh password by secrets of LINUX_USER_PASSWORD u have set.
 
 * Type **sudo -i** for root permission and type your password.
-<img src="pics/E5527744-1ED1-4550-8867-EF4EC76D6895.png?raw=true" height="100' width="200" >
+<img src="pics/E5527744-1ED1-4550-8867-EF4EC76D6895.png?raw=true" "height="100' width="200" >
 
 * Enjoy having your FREE linux SSH VPS and type any command you want.(but only 6 hours)
-<img src="pics/E6E9EA63-AC24-4FDB-AAF9-8B509658440A.png?raw=true" height="100' width="200" >
+<img src="pics/E6E9EA63-AC24-4FDB-AAF9-8B509658440A.png?raw=true" "height="100' width="200" >
 
 </details>
 
@@ -127,13 +127,13 @@ type **yes** from the connect, and then type your ssh password by secrets of LIN
 <br>
 
 - Desktop Screenshot
-<img src="pics/4EB9C2FF-9D03-4998-A440-D7716A0F7CD0.png?raw=true" height="100' width="200" >
+<img src="pics/4EB9C2FF-9D03-4998-A440-D7716A0F7CD0.png?raw=true" "height="100' width="200" >
 
 - Linux Chrome
-<img src="pics/09F0A4CF-9B30-44CD-8DC4-139D03DFC2CC.png?raw=true" height="100' width="200" >
+<img src="pics/09F0A4CF-9B30-44CD-8DC4-139D03DFC2CC.png?raw=true" "height="100' width="200" >
 
 - Install any apps you want :)
-<img src="pics/A0886141-DF1E-4379-88E7-F00EDAD87D0E.png?raw=true" height="100' width="200">
+<img src="pics/A0886141-DF1E-4379-88E7-F00EDAD87D0E.png?raw=true" "height="100' width="200">
 
 </details>
 
@@ -142,19 +142,19 @@ type **yes** from the connect, and then type your ssh password by secrets of LIN
 <br>
 
 - Desktop Screenshot
-<img src="pics/Screenshot%202021-02-23%20at%207.32.41%20AM.png?raw=true" height="100' width="200" >
+<img src="pics/Screenshot%202021-02-23%20at%207.32.41%20AM.png?raw=true" "height="100' width="200" >
 
 - Settings
-<img src="pics/Screenshot%202021-02-23%20at%207.32.21%20AM.png?raw=true" height="100' width="200" >
+<img src="pics/Screenshot%202021-02-23%20at%207.32.21%20AM.png?raw=true" "height="100' width="200" >
 
 - RAM
-<img src="pics/Screenshot%202021-02-23%20at%207.32.58%20AM.png?raw=true" height="100' width="200" >
+<img src="pics/Screenshot%202021-02-23%20at%207.32.58%20AM.png?raw=true" "height="100' width="200" >
 
 - Storage
-<img src="pics/Screenshot%202021-02-23%20at%207.33.18%20AM.png?raw=true" height="100' width="200" >
+<img src="pics/Screenshot%202021-02-23%20at%207.33.18%20AM.png?raw=true" "height="100' width="200" >
 
 - Pre-Installed Apps
-<img src="pics/Screenshot%202021-02-23%20at%207.34.10%20AM.png?raw=true" height="100' width="200" >
+<img src="pics/Screenshot%202021-02-23%20at%207.34.10%20AM.png?raw=true" "height="100' width="200" >
 
 </details>
 
@@ -173,7 +173,7 @@ DON'T RECODE THIS SC!
 
 
 :Warning : Dont install Big Sur updates on your macos virtual machine, it will break your remote process!
-<img src="pics/Screenshot%202021-02-23%20at%207.35.57%20AM.png" png?raw=true" height="100' width="200">
+<img src="pics/Screenshot%202021-02-23%20at%207.35.57%20AM.png" png?raw=true" "height="100' width="200">
 </details>
 
 
