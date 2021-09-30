@@ -1,4 +1,4 @@
-## 🍁 Virtual Machine 🍁
+## 🍁 Virtual Machine by TechieSneh🍁
 
 > **[ Windows, MacOS, Linux ]  [ CPU 3core - 7GB Ram - 256 SSD ]**     
 > ## Windows 10: [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/techiesneh/VPS/blob/main/.github/workflows/Windows10.yml) <br>  MacOS: [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/techiesneh/VPS/blob/main/.github/workflows/MacOS.yml) <br> Linux Desktop: [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/techiesneh/VPS/blob/main/.github/workflows/Linux-Desktop.yml) <br> Linux SSH: [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/techiesneh/VPS/blob/main/.github/workflows/Linux-ssh.yml) 
@@ -176,9 +176,6 @@ DON'T RECODE THIS SC!
 <img src="pics/Screenshot%202021-02-23%20at%207.35.57%20AM.png" png?raw=true" height="250" width="500">
 </details>
 
-
-
-<br> 
 
 <h3> 🎫 Licence : </h3>
 Apache 2.0 © Techie Sneh<br>
