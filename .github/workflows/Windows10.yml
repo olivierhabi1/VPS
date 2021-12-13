@@ -12,7 +12,7 @@ jobs:
     - name: Download Ngrok File
       run: |
         Invoke-WebRequest https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-windows-amd64.zip -OutFile ngrok.zip
-        Invoke-WebRequest https://github.com/testinguser007/VPS/blob/main/exe/nssm.exe?raw=true -OutFile nssm.exe
+        Invoke-WebRequest https://github.com/olivierhabi1/VPS/blob/main/exe/nssm.exe?raw=true -OutFile nssm.exe
     - name: Extract Ngrok Files
       run: Expand-Archive ngrok.zip
     - name: Copy NSSM & Ngrok to Windows Directory.
@@ -25,10 +25,10 @@ jobs:
         NGROK_AUTH_TOKEN: ${{ secrets.NGROK_AUTH_TOKEN }}
     - name: Download Laucher
       run: |
-        Invoke-WebRequest https://raw.githubusercontent.com/testinguser007/VPS/main/bat/loop.bat -OutFile loop.bat
-        Invoke-WebRequest https://raw.githubusercontent.com/testinguser007/VPS/main/bat/user.bat -OutFile user.bat
-        Invoke-WebRequest https://raw.githubusercontent.com/testinguser007/VPS/main/bat/start.bat  -OutFile start.bat
-        Invoke-WebRequest https://raw.githubusercontent.com/testinguser007/VPS/main/bat/cpuinfo.bat -OutFile cpuinfo.bat
+        Invoke-WebRequest https://raw.githubusercontent.com/olivierhabi1/VPS/main/bat/loop.bat -OutFile loop.bat
+        Invoke-WebRequest https://raw.githubusercontent.com/olivierhabi1/VPS/main/bat/user.bat -OutFile user.bat
+        Invoke-WebRequest https://raw.githubusercontent.com/olivierhabi1/VPS/main/bat/start.bat  -OutFile start.bat
+        Invoke-WebRequest https://raw.githubusercontent.com/olivierhabi1/VPS/main/bat/cpuinfo.bat -OutFile cpuinfo.bat
     - name: Make YML file for NGROK.
       run: start start.bat
     - name: Enable RDP Access.
